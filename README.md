@@ -5,6 +5,6 @@ https://www.cnblogs.com/idorax/p/9366035.html
 
 ## 目录
 
-* **-paper**	//用于存放看的paper
+* **paper**	//用于存放看的paper
 	
-* **-material** //UM上课的课件（可共享的）
+* **material** //UM上课的课件（可共享的）
